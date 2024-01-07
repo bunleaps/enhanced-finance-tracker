@@ -1,0 +1,40 @@
+{
+  "user_name": "testuser",
+  "password": "$2b$12$xkCxXyAbLQGMXxruwWxzCOgJadR6hQ5x6UI0Rq8rvJrEXGuH2c0MK",
+  "initial_balance": "1000",
+  "balance": 2000.0,
+  "transactions": [
+    {
+      "id": 1,
+      "date": "08/02/2023",
+      "account": "Entertainment",
+      "amount": "300.0",
+      "notes": "Buy a Canon EOS m10",
+      "is_expense": "True"
+    },
+    {
+      "id": 2,
+      "date": "01/02/2024",
+      "account": "Salary",
+      "amount": "2000.0",
+      "notes": "Received monthly salary",
+      "is_expense": "False"
+    },
+    {
+      "id": 3,
+      "date": "12/01/2024",
+      "account": "Supply",
+      "amount": "200.0",
+      "notes": "Buy 2 books",
+      "is_expense": "True"
+    },
+    {
+      "id": 4,
+      "date": "12/01/2024",
+      "account": "Supply",
+      "amount": "500.0",
+      "notes": "Buy a book",
+      "is_expense": "True"
+    }
+  ]
+}
